@@ -1,5 +1,9 @@
 [
   {
+    "package": "longRPart2",
+    "oncran": true
+  },
+  {
     "package": "regsem",
     "oncran": true
   }

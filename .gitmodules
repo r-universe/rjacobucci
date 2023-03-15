@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "longRPart2"]
+	path = longRPart2
+	url = https://github.com/rjacobucci/longrpart2
+	shallow = true
+	registered = true
 [submodule "regsem"]
 	path = regsem
 	url = https://github.com/rjacobucci/regsem
